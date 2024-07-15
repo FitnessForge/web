@@ -1,0 +1,13 @@
+# Ignore build and output directories
+/.next/
+/out/
+
+# Ignore node_modules directory
+/node_modules/
+
+# Ignore generated files
+/*.js
+/*.d.ts
+
+# Ignore test files
+/__tests__/
